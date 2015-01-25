@@ -1,2 +1,3 @@
-logs
 data
+logs/*log
+.Rproj.user
